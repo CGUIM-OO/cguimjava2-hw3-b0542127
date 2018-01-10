@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.HashMap;
-//import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * @author TODO: please add student ID and name here
